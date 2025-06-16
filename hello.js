@@ -1,1 +1,1 @@
-console.log("What's your name?")
+console.log("What's your n?")
